@@ -10,14 +10,14 @@ ext {
 
     libraryDescription = 'Android view for displaying PDFs rendered with PdfiumAndroid'
 
-    siteUrl = 'https://github.com/barteksc/AndroidPdfViewer'
-    gitUrl = 'https://github.com/barteksc/AndroidPdfViewer.git'
+    siteUrl = 'https://github.com/mobarokOP/AndroidPdfViewer'
+    gitUrl = 'https://github.com/mobarokOP/AndroidPdfViewer.git'
 
     libraryVersion = '1.0.0'
 
     developerId = 'mobarokOP'
     developerName = 'Mobarok Hossain'
-    developerEmail = 'barteksch@boo.pl'
+    developerEmail = 'mobarokOP@yahoo.com'
 
     licenseName = 'The Apache Software License, Version 2.0'
     licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
